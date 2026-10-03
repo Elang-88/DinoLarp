@@ -1,4 +1,4 @@
-Tugas Kecil 1 Clan Programming, GIM ITB (Aviator's ID = 157).
+Tugas Kecil 1 Clan Programming, GIM ITB (Aviator's ID = 157)
 
 # DinoLarp
 DinoLarp adalah rekreasi ulang dari Dinosaur Game di browser dengan sedikit perbedaan fitur.
